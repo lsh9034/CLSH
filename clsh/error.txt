@@ -1,0 +1,3 @@
+work03: -bash: line 2: asdf: command not found
+work02: -bash: line 2: asdf: command not found
+work01: -bash: line 2: asdf: command not found
