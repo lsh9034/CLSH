@@ -1,5 +1,6 @@
 # CLSH
 다수의 원격 쉘과 동시에 통신할 수 있는 프로그램
+Programs that can communicate simultaneously with multiple remote shells 
 
 ---
 
